@@ -1,0 +1,23 @@
+{
+  "name": "client-request",
+  "version": "1.0.0",
+  "description": "HTTP and HTTPS client request",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktfth/client-request-cli.git"
+  },
+  "keywords": [
+    "client",
+    "requests"
+  ],
+  "author": "Kaique da Silva <kaeyosthaeron@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktfth/client-request-cli/issues"
+  },
+  "homepage": "https://github.com/ktfth/client-request-cli#readme"
+}
