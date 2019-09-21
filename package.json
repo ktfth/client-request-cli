@@ -1,7 +1,8 @@
 {
-  "name": "client-request",
+  "name": "client-requests",
   "version": "1.0.0",
   "description": "HTTP and HTTPS client request",
+  "bin": "./bin/client-requests",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/**/*.js"
