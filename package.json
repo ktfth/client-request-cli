@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/ktfth/client-request-cli/issues"
   },
-  "homepage": "https://github.com/ktfth/client-request-cli#readme"
+  "homepage": "https://github.com/ktfth/client-request-cli#readme",
+  "dependencies": {}
 }
