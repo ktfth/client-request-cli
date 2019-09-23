@@ -1,6 +1,6 @@
 {
   "name": "client-requests",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "HTTP and HTTPS client request",
   "bin": "./bin/client-requests",
   "main": "index.js",
