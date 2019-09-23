@@ -1,6 +1,6 @@
 {
   "name": "client-requests",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTTP and HTTPS client request",
   "bin": "./bin/client-requests",
   "main": "index.js",
@@ -21,5 +21,7 @@
     "url": "https://github.com/ktfth/client-request-cli/issues"
   },
   "homepage": "https://github.com/ktfth/client-request-cli#readme",
-  "dependencies": {}
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
 }
